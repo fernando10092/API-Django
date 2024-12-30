@@ -1,0 +1,3 @@
+django-admin startproject myproject .
+django-admin startapp myapp
+python manage.py createsuperuser  ##(fernandolima, fernando100@windowslive.com, 123456 )
